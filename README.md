@@ -1,5 +1,5 @@
-# lnq
-a chat forum for my project
+# lnqnd
+a chat forum for my fun
 # contributors
 marybngozi,
 Lord Cheta
